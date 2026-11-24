@@ -10,10 +10,11 @@ private and never appear here. The execution infrastructure is public separately
 
 ## Why this exists
 
-I built a lot of my system fast, and I relied heavily on an AI assistant to write the code. One
-day I realized I could not tell whether many of the steps were correct, because I had not taken
-part in them myself. So I am rebuilding the research from the start, one stage at a time, and I
-verify every step myself before moving on. This journal is the evidence of that work.
+The system grew quickly: a strategy spec, a backtest, factor research, and a live execution
+engine. Before trusting any result from it, I want every layer to rest on a foundation I have
+checked myself. So I am going back through the research from the start, one stage at a time,
+auditing each step against professional quant-research practice before moving on. This journal is
+the record of that work.
 
 ## The roadmap I am following
 
