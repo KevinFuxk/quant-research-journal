@@ -24,3 +24,4 @@ The system grew quickly: a strategy spec, a backtest, factor research, and a liv
 ## Entries
 
 - [2026-11-23](journal/2026-11-23.md): stopping, admitting what I did not understand, and starting over
+- [2026-11-24](journal/2026-11-24.md): finishing the data layer, fixing a caching bug, starting the universe
